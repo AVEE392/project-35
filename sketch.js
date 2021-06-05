@@ -2,8 +2,8 @@ var balloonImg, balloon,bgImg,bg;
 var position, database;
 
 function preload(){
-  bgImg = loadImage("images/HotAirBallon-01.png");
-  balloonImg = loadImage("images/HotAirBallon-02.png");
+  bgImg = loadImage("HotAirBallon-01.png");
+  balloonImg = loadImage("HotAirBallon-02.png");
 }
 
 function setup(){
